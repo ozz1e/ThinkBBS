@@ -1,0 +1,8 @@
+/.idea
+/.vscode
+/vendor
+*.log
+.env
+.DS_Store
+#忽略vi/vim非正常关闭的文件
+*.swp
